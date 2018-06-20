@@ -1,0 +1,27 @@
+{
+  "name": "zsolt-takacs-2018-06-app",
+  "version": "1.0.0",
+  "description": "Add a unit test and refactor the code below to make it as readable as possible, and compatible with all known rules of code purity and quality. The ES6 version is welcome.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+  },
+  "keywords": [
+    "astek",
+    "test work",
+    "unit test",
+    "refactoring",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/tzs007/zsolt-takacs-2018-06-app.git"
+  },
+  "author": "Zsolt Takács",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/tzs007/zsolt-takacs-2018-06-app#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
